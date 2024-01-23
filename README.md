@@ -1,0 +1,1 @@
+This is a project under Fintech Society to make binary sentiment classification given a labelled dataset. Here I have attempted to use distilBERT and NaiveBayes models to make the predictions, both resulted in an accuracy of > 0.75, with the DistilBERT performing slightly better.
